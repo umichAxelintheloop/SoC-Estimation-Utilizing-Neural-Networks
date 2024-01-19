@@ -1,36 +1,29 @@
-# Estimation-Utilizing-Neural-Networks
-
+# SoC Estimation Utilizing Neural Networks :brain::battery:
 
 Brief description of your project.
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
-## Introduction
+## Introduction :rocket:
 
-Provide a concise overview of what your project is about.
+Welcome to the SoC Estimation Utilizing Neural Networks project! This project focuses on estimating the State of Charge (SoC) using advanced neural network techniques.
 
-## Features
+## Features :star2:
 
-List the key features of your project.
+- State of Charge Estimation: Utilize the power of neural networks to accurately estimate the SoC of your system.
 
-## Installation
+## Usage :book:
 
-Include instructions on how to install your project.
+To use this project, follow these simple steps:
 
-## Usage
+1. Clone the repository to your local machine.
+2. Install the required dependencies.
+3. Run the main script to start the SoC estimation.
 
-Explain how to use your project and provide examples if possible.
+Example usage:
 
-## Contributing
-
-Guidelines for contributors. Include information on how others can contribute to your project.
-
-## License
-
-Specify the license under which your project is distributed.
+```python
+# Add code example here
