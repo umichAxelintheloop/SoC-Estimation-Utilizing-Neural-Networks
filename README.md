@@ -1,6 +1,6 @@
 # SoC Estimation Utilizing Neural Networks :brain::battery:
 
-Brief description of your project.
+The intention of this project is to provide an estimation of the SoC % value on real time given voltage, current and temperature.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -20,10 +20,5 @@ Welcome to the SoC Estimation Utilizing Neural Networks project! This project fo
 To use this project, follow these simple steps:
 
 1. Clone the repository to your local machine.
-2. Install the required dependencies.
+2. Install the required dependencies, for this project MATLAB is needed.
 3. Run the main script to start the SoC estimation.
-
-Example usage:
-
-```python
-# Add code example here
